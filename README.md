@@ -9,5 +9,5 @@ The use cases that I have worked on:
 1. Social Media Text Mining and analytics (Goal: understand and monitor the sentiment/topics/issues that people are talking about related to the product/company of interest). 
 2. Review/Feedback Analysis (Goal: automate the process to summarize and monitor the sentiment/topics/issues from the customers' feedbacks to better improve the product and improve customer satifactory). 
 3. Product Data Quality (Goal: Detect potential conflicts within the product description, product attributes, product images and product doucments provided at different time/different resources). 
-4. customer-faced/associated-faced Chatbots (For Sure: NLP; NLU; NLG).
-5. 
+4. Customer-faced/associated-faced Chatbots (For Sure: NLP; NLU; NLG).
+5. ...
