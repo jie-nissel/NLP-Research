@@ -26,7 +26,7 @@ In its research stages, the framework achieved groundbreaking results in 11 natu
 4) the disambiguation of polysemous words, or 
 5) words with multiple meanings.
 
-# BERT - unsupervised learning - Layer of Knowledge
+# BERT - Unsupervised Learning - Layer of Knowledge
 It is pre-trained using only unlabeled, plain text corpus (i.e. the English Wikipedia, and the Brown Corpus). 
 It continues to learn unsupervised from unlabeled text. 
 
